@@ -1,62 +1,60 @@
  <center>
-     <h1>XXX</h1>
+     <h1>朱纹轩</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             15063659552
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             skywalker.dell@gmail.com
          </span>
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
+             <a href="https://github.com/skywalker-dell">skywalker-dell</a>
          </span>
          ·
          <span>
              <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
+             <a href="https://skywalker-dell.github.io/personal-page/">Personal Home Page</a>
          </span>
      </div>
  </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+## 教育经历
 
- - 男，1994 年出生
- - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
+- 学士，哈尔滨工业大学（威海），机器人工程专业，2019.9~20123.9
+- 绩点：89.06/100
+- 雅思：7
 
-## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
+## 项目经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
-- 通过了 CET4/6 英语等级考试
+- RoboMaster比赛
+  - 算法组成员
+    - 实现了一种鲁棒的单目相机测距算法
+    - 使用CAN通信实现Jetson产品与STM32之间的机器人通信协议
+  
+  - 算法组组长
+    - 设计了一种将传统特征提取与深度学习结合的特殊目标检测算法（对于一张640*480的图片，使用TX2达到150+的帧率）
+    - 使用拓展卡尔曼滤波进行机动目标追踪和预测击打
+  
+  - 团队副队长
+    - 使用串级PID实现机器人云台闭环控制
+    - 对人员进行工作分工和进度管理
+- 南洋理工大学人工智能科研项目
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
+# 奖项
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
+- 国家励志奖学金
+- RoboMaster超级对抗赛赛全国总决赛二等奖
+- 山东省大学生物理竞赛一等奖
 
-   负责 XXX
+## 技能清单
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
-
-- **XXXX 项目**
-
-  *使用到的技术*
-
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
-
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
-
-- ★★★ Java
-- ★★☆ C++、Python
-- ★★★ MySQL
-- ★★★ Redis
-- ★★☆ Spring
-- ★☆☆ RabbitMQ、ZooKeeper
-- ★★☆ JavaScript
+- 三维建模
+  - SolidWorks、AutoCAD
+- 编程
+  - 编程语言：C++、Python、Matlab以及一些标记语言
+  - 编程技能：OpenCV、Pytorch、ROS2、Arduino、Docker等
